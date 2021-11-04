@@ -1,3 +1,0 @@
-﻿this is test.
-
-this file is text.
